@@ -4,8 +4,6 @@ I'm Cengizhan, a Senior Software Engineer and Game Developer based in Turkey.
 
 I have 10 years of full-stack development experience, but I am currently applying this background to game development.
 
-If there is a complex architectural challenge, I excel at solving it to build engaging player experiences.
-
 **Tech Stack**
 * **Game Dev:** Unity, C#
 * **Frontend:** React, TypeScript, JavaScript, CSS, and Angular
@@ -16,8 +14,3 @@ If there is a complex architectural challenge, I excel at solving it to build en
 I've successfully shipped products, but my favorites are Rush Out and Pixel Match.
 
 If you want to see what I've built, my games are available on [Google Play](https://play.google.com/store/apps/developer?id=MadNomad)!
-
-**Fun Facts:**
-
-* I enjoy MotoCross and trekking
-* I like repairing things and DIY electronics
