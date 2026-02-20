@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**cingiskagan/cingiskagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cengizhan, a Senior Software Engineer and Game Developer based in Turkey.
 
-Here are some ideas to get you started:
+I have 10 years of full-stack development experience, but I am currently applying this background to game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If there is a complex architectural challenge, I excel at solving it to build engaging player experiences.
+
+**Tech Stack**
+* **Game Dev:** Unity, C#
+* **Frontend:** React, TypeScript, JavaScript, CSS, and Angular
+* **Backend:** Java, Spring Boot, Hibernate, Python, Node.js, Django, REST APIs, and Firebase
+* **Databases:** PostgreSQL and Microsoft SQL
+* **Tools:** Docker, Git, and Blender
+
+I've successfully shipped products, but my favorites are Rush Out and Pixel Match.
+
+If you want to see what I've built, my games are available on [Google Play](https://play.google.com/store/apps/developer?id=MadNomad)!
+
+**Fun Facts:**
+
+* I enjoy MotoCross and trekking
+* I like repairing things and DIY electronics
